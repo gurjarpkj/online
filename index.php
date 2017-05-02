@@ -2,7 +2,7 @@
 $case = $_REQUEST['case'];
 switch($case){
 case '1' :
-//Armstrong Number
+//Armstrong Number my name is pankaj
 $n1 = '371';
 $n2 = $n1;
 $ar = 0;
