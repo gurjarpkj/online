@@ -2,8 +2,8 @@
 $case = $_REQUEST['case'];
 switch($case){
 case '1' :
-//Armstrong Number
-$n1 = '371';
+//Armstrong Number just test
+$n1 = '373';
 $n2 = $n1;
 $ar = 0;
 while($n2>0){
